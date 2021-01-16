@@ -1,1 +1,1 @@
-# flutter-movies-app
+# flutter-recipes-app
